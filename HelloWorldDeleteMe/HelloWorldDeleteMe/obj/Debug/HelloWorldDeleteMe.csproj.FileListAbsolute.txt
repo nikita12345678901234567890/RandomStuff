@@ -1,0 +1,7 @@
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\bin\Debug\HelloWorldDeleteMe.exe.config
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\bin\Debug\HelloWorldDeleteMe.exe
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\bin\Debug\HelloWorldDeleteMe.pdb
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\obj\Debug\HelloWorldDeleteMe.csprojAssemblyReference.cache
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\obj\Debug\HelloWorldDeleteMe.csproj.CoreCompileInputs.cache
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\obj\Debug\HelloWorldDeleteMe.exe
+Z:\Documents\Github\HelloWorldDeleteMe\HelloWorldDeleteMe\obj\Debug\HelloWorldDeleteMe.pdb
