@@ -10,7 +10,6 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            /*
             string[] Fizz = {"Fizz"};
             string[] Buzz = { "Buzz" };
             string[] FizzBuzz = { "FizzBuzz" };
@@ -56,11 +55,6 @@ namespace FizzBuzz
 
                 Console.WriteLine(output);
             }
-            */
-
-            
-
-
         }
     }
 }
