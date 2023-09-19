@@ -1,11 +1,11 @@
 _______________________________________________________________________________________________
 |    ID    |    Model    |  Stock  |    Price    |                Error Message               |
 -----------------------------------------------------------------------------------------------
-|35KMOP324 |Focus3       |       15|      4000.00|                       ID first char invalid|
+|35KMOP324 |FOCUS3       |       15|      4000.00|                       ID first char invalid|
 |          |             |         |             |                      ID second char invalid|
 |          |             |         |             |                           ID char 5 invalid|
 |          |             |         |             |               Price must be 5000.00 or more|
-|O2o#$%YoO |3%           |       -2|        -5.21|                       ID first char invalid|
+|O2O#$%YOO |3%           |       -2|        -5.21|                       ID first char invalid|
 |          |             |         |             |                      ID second char invalid|
 |          |             |         |             |                           ID char 3 invalid|
 |          |             |         |             |                           ID char 4 invalid|
@@ -19,6 +19,11 @@ ________________________________________________________________________________
 |          |             |         |             |                        Model char 2 invalid|
 |          |             |         |             |                  Quantity must be 0 or more|
 |          |             |         |             |               Price must be 5000.00 or more|
-|OB12MP349 |Fusio55      |       14|     17000.00|                       ID first char invalid|
-|AO12MP349 |Fus9on5      |       39|     17000.00|                      ID second char invalid|
+|AB12MP349 |FUSION1      |        0|      1000.00|               Price must be 5000.00 or more|
+|BB12MP349 |FUSION2      |        1|      2000.00|               Price must be 5000.00 or more|
+|CB12MP349 |FUSION3      |        2|      3000.00|               Price must be 5000.00 or more|
+|DB12MP349 |FUSION4      |        3|      4000.00|               Price must be 5000.00 or more|
+|OB12MP349 |FUSIO55      |       14|     15000.00|                       ID first char invalid|
+|AF12MP349 |FUSI0N5      |       30|         0.00|               Price must be 5000.00 or more|
+|AO12MP349 |FUS9ON5      |       39|     39000.00|                      ID second char invalid|
 ----------------------------------------------------------------------------------------------

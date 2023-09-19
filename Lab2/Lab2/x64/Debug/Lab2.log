@@ -1,2 +1,3 @@
 ﻿  Lab2.cpp
+C:\Users\perso\Documents\GitHub\RandomStuff\Lab2\Lab2\Lab2.cpp(31,30): warning C4305: 'initializing': truncation from 'double' to 'float'
   Lab2.vcxproj -> C:\Users\perso\Documents\GitHub\RandomStuff\Lab2\x64\Debug\Lab2.exe
