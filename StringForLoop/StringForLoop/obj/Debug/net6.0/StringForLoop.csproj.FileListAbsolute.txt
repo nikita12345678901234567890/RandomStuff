@@ -1,0 +1,15 @@
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\bin\Debug\net6.0\StringForLoop.exe
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\bin\Debug\net6.0\StringForLoop.deps.json
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\bin\Debug\net6.0\StringForLoop.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\bin\Debug\net6.0\StringForLoop.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\bin\Debug\net6.0\StringForLoop.pdb
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.csproj.AssemblyReference.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\refint\StringForLoop.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.pdb
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\StringForLoop.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\StringForLoop\StringForLoop\obj\Debug\net6.0\ref\StringForLoop.dll
