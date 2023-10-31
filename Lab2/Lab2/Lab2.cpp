@@ -1,25 +1,10 @@
-﻿// Ulianov, Nikita
-//Lab 2
-/****Instructor's feedback DO NOT DELETE:
-
-****/
-
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <iomanip>
-#include <limits>
+﻿#include <iostream>
 using namespace std;
 
-struct Record
-{
-    string ID;
-    string Model;
-    int Quantity;
-    double Price;
-};
+void Option1(int num, bool first = true, double value = 0);
+void Option2(int num, int count = 1, double value = 0);
 
-enum MENU_OPTIONS
+enum MENU
 {
     PRINT_VALID = 1,
     PRINT_INVALID,
@@ -42,19 +27,12 @@ bool isNumber(string input);
 
 int main()
 {
-    bool newWorks = true;
-    Record* records = new Record[MAX_RECORDS];//DELETE THIS INITIALIZATION
-    Record* searchResult = new Record[MAX_RECORDS];//same here
-    try
+    bool running = true;
+    int input = 0;
+    while (running)
     {
-        records = new Record[MAX_RECORDS];
-        searchResult = new Record[MAX_RECORDS];
-    }
-    catch (std::bad_alloc&)
-    {
-        newWorks = false;
-        cout << "array allocation failed" << endl;
-    }
+        cout << "\n\n1 Series1\n2 Series2\n3 Quit" << endl;
+        cin >> input;
 
     if (newWorks)
     {
@@ -142,6 +120,8 @@ int main()
                     break;
                 }
 
+            case Exit:
+                running = false;
                 break;
 
             default:
@@ -149,9 +129,9 @@ int main()
                 cin.ignore(numeric_limits<streamsize>::max(), '\n');
                 cout << "Invalid option" << endl;
                 break;
-            }
         }
     }
+}
 
     delete[] records;
 
@@ -160,16 +140,9 @@ int main()
 
 void ReadFile(Record records[], int& numRecords)
 {
-    ifstream recordFile;
-    recordFile.open("Records.txt");
-
-    ofstream ErrorFile;
-    ErrorFile.open("Error.txt");
-
-    bool filesWork = recordFile && ErrorFile;
-    if (!filesWork)
+    if (first)
     {
-        cout << "Unable to open file" << endl;
+        cout << "n=" << num << " ";
     }
 
     bool ErrorHappened = false;
@@ -307,46 +280,27 @@ int checkValid(Record record, string messages[])
         numErrors++;
     }
 
-    //Checking that first character is a letter
-    if (!isalpha(record.Model[0]))
+    if (num == 2)
     {
-        messages[numErrors] += "Model name must start with letter";
-        numErrors++;
+        cout << num << " = " << value + 2 << endl;
+    }
+    else
+    {
+        cout << num << "/(" << num << "-1) + ";
+        value += (double)num / (num - 1);
     }
 
-    //Checking that the rest are alphaNumeric
-    for (int i = 1; i < record.Model.length(); i++)
-    {
-        if (!isAlphaNum(record.Model[i]))
-        {
-            messages[numErrors] += "Model char " + to_string(i + 1) + " invalid";
-            numErrors++;
-        }
-    }
-
-
-    //Checking Quantity:
-    if (record.Quantity < 0)
-    {
-        messages[numErrors] += "Quantity must be 0 or more";
-        numErrors++;
-    }
-
-
-    //Checking Price:
-    if (record.Price < 5000)
-    {
-        messages[numErrors] += "Price must be 5000.00 or more";
-        numErrors++;
-    }
-
-    return numErrors;
+    Option1(num - 1, false, value);
 }
 
-bool isAlphaNum(char c)
+void Option2(int num, int count, double value)
 {
-    return isalpha(c) || isdigit(c);
-}
+    if (count == 1)
+    {
+        cout << "n=" << num << " 1 + ";
+        value += 1;
+        count++;
+    }
 
 void PrintRecords(Record records[], int numRecords)
 {
@@ -366,29 +320,11 @@ void PrintRecords(Record records[], int numRecords)
             << std::setw(9) << std::right << records[i].Quantity << "|"
             << std::setw(13) << records[i].Price << "|" << "\n";
     }
-    //printing bottom of table
-    cout << setfill('-') << setw(51) << "\n" << endl;
-}
-
-void PrintInvalid()
-{
-    ifstream errorFile;
-    errorFile.open("Error.txt");
-
-    if (errorFile.peek() != '_')
-    {
-        cout << "file was empty" << endl;
-    }
-    else if (errorFile)
-    {
-        cout << errorFile.rdbuf() << endl;
-    }
     else
     {
-        cout << "unable to open recordFile" << endl;
+        cout << "[" << count << "*" << count << "*" << count << "] + ";
+        Option2(num, count + 1, value + (count * count * count));
     }
-
-    errorFile.close();
 }
 
 int Search(string value, Record records[], int numRecords, Record results[])
@@ -425,8 +361,6 @@ int Search(int price, Record records[], int numRecords, Record results[])
         }
     }
 
-    return numResults;
-}
 
 string ToUpper(string input)
 {
@@ -439,24 +373,20 @@ string ToUpper(string input)
     return result;
 }
 
-bool isNumber(string input)
-{
-    bool isNumber = true;
-    for (int i = 0; i < input.size(); i++)
-    {
-        if (!isdigit(input[i]))
-        {
-            isNumber = false;
-        }
-    }
 
-    return isNumber;
-}
+1 Series1
+2 Series2
+3 Quit
+1
 
 /*
 ./main
 Too many records, stored first 50.
 
+1 Series1
+2 Series2
+3 Quit
+Invalid option
 
 1 print records
 2 print errors
@@ -525,32 +455,6 @@ __________________________________________________
 3 search
 4 quit
 2
-_______________________________________________________________________________________________
-|    ID    |    Model    |  Stock  |    Price    |                Error Message               |
------------------------------------------------------------------------------------------------
-|35KMOP324 |Focus3       |       15|      4000.00|                       ID first char invalid|
-|          |             |         |             |                      ID second char invalid|
-|          |             |         |             |                           ID char 5 invalid|
-|          |             |         |             |               Price must be 5000.00 or more|
-|O2o#$%YoO |3%           |       -2|        -5.21|                       ID first char invalid|
-|          |             |         |             |                      ID second char invalid|
-|          |             |         |             |                           ID char 3 invalid|
-|          |             |         |             |                           ID char 4 invalid|
-|          |             |         |             |                           ID char 5 invalid|
-|          |             |         |             |                           ID char 6 invalid|
-|          |             |         |             |                           ID char 7 invalid|
-|          |             |         |             |                           ID char 8 invalid|
-|          |             |         |             |                           ID char 9 invalid|
-|          |             |         |             |                        Model name too short|
-|          |             |         |             |           Model name must start with letter|
-|          |             |         |             |                        Model char 2 invalid|
-|          |             |         |             |                  Quantity must be 0 or more|
-|          |             |         |             |               Price must be 5000.00 or more|
-|OB12MP349 |Fusio55      |       14|     17000.00|                       ID first char invalid|
-|AO12MP349 |Fus9on5      |       39|     17000.00|                      ID second char invalid|
-----------------------------------------------------------------------------------------------
-
-
 
 1 print records
 2 print errors

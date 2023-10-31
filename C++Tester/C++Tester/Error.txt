@@ -1,0 +1,22 @@
+_______________________________________________________________________________________________
+|    ID    |    Model    |  Stock  |    Price    |                Error Message               |
+-----------------------------------------------------------------------------------------------
+|35KMOP324 |Focus3       |       15|      4000.00|                       ID first char invalid|
+|          |             |         |             |                      ID second char invalid|
+|          |             |         |             |                           ID char 5 invalid|
+|          |             |         |             |               Price must be 5000.00 or more|
+|O2o#$%YoO |3%           |       -2|        -5.21|                       ID first char invalid|
+|          |             |         |             |                      ID second char invalid|
+|          |             |         |             |                           ID char 3 invalid|
+|          |             |         |             |                           ID char 4 invalid|
+|          |             |         |             |                           ID char 5 invalid|
+|          |             |         |             |                           ID char 6 invalid|
+|          |             |         |             |                           ID char 7 invalid|
+|          |             |         |             |                           ID char 8 invalid|
+|          |             |         |             |                           ID char 9 invalid|
+|          |             |         |             |                        Model name too short|
+|          |             |         |             |           Model name must start with letter|
+|          |             |         |             |                        Model char 2 invalid|
+|          |             |         |             |                  Quantity must be 0 or more|
+|          |             |         |             |               Price must be 5000.00 or more|
+-----------------------------------------------------------------------------------------------
