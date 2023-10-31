@@ -16,3 +16,7 @@ Lab2/.vs/Lab2/v17/.suo
 *.lastbuildstate
 *.idb
 *.pdb
+*.vsidx
+*.db-shm
+*.db-wal
+*.opendb
