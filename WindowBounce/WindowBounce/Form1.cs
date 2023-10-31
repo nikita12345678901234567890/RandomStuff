@@ -7,11 +7,12 @@ namespace WindowBounce
             InitializeComponent();
         }
 
-        Point speed = new Point(5, 5);
+        Point speed = new Point(10, 10);
         private void timer1_Tick(object sender, EventArgs e)
         {
             Location = new Point(Location.X + speed.X, Location.Y + speed.Y);
-            pictureBox1.Location = new Point(pictureBox1.Location.X + ((Size.Width - (pictureBox1.Location.X + pictureBox1.Size.Width)) / ((Size.Width / pictureBox1.Width) * speed.X)), pictureBox1.Location.Y);
+            pictureBox1.Location = new Point((int)((float)Location.X * ((float)Location.X / 1920)), (int)((float)Location.Y * ((float)Location.Y / 1080)));
+            
 
             if (Location.X <= 0 || Location.X + Size.Width >= 1920)
             {
