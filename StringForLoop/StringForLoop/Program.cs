@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string yeet = "Hello";
+            string yeet = "olleH";
 
             for (string i = yeet; i.Length > 0; i = i.Remove(i.Length - 1))
             {
