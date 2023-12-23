@@ -1,0 +1,17 @@
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.exe
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.deps.json
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.runtimeconfig.json
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.dll
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.pdb
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.Form1.resources
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.csproj.GenerateResource.cache
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.AssemblyInfoInputs.cache
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.AssemblyInfo.cs
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.csproj.CoreCompileInputs.cache
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.dll
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\refint\WindowBounce.dll
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.pdb
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.genruntimeconfig.cache
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\ref\WindowBounce.dll
+C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.Properties.Resources.resources
