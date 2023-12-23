@@ -15,3 +15,21 @@ C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\
 C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.genruntimeconfig.cache
 C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\ref\WindowBounce.dll
 C:\Users\perso\Documents\GitHub\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.Properties.Resources.resources
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.exe
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.deps.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.runtimeconfig.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\bin\Debug\net6.0-windows\WindowBounce.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.csproj.AssemblyReference.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.Form1.resources
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.Properties.Resources.resources
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\refint\WindowBounce.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\WindowBounce.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\WindowBounce\WindowBounce\obj\Debug\net6.0-windows\ref\WindowBounce.dll

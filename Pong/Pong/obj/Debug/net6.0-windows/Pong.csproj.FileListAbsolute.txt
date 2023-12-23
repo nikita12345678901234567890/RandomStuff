@@ -15,3 +15,4 @@
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pong\Pong\obj\Debug\net6.0-windows\Pong.pdb
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pong\Pong\obj\Debug\net6.0-windows\Pong.genruntimeconfig.cache
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pong\Pong\obj\Debug\net6.0-windows\ref\Pong.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pong\Pong\obj\Debug\net6.0-windows\Pong.Properties.Resources.resources
