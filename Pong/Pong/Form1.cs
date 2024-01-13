@@ -44,12 +44,12 @@ namespace Pong
             if (this.DesktopBounds.IntersectsWith(LPaddle.DesktopBounds))
             {
                 speed.X = Math.Abs(speed.X);
-                speed.Y += sideStanSpeed;
+                //speed.Y += sideStanSpeed;
             }
             if (this.DesktopBounds.IntersectsWith(RPaddle.DesktopBounds))
             {
                 speed.X = -Math.Abs(speed.X);
-                speed.Y += sideStanSpeed;
+                //speed.Y += sideStanSpeed;
             }
 
             if (RDirection == true && RPaddle.Top > 20) RPaddle.Location = new Point(RPaddle.Location.X, RPaddle.Location.Y - 20);

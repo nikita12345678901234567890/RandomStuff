@@ -1,0 +1,8 @@
+ShowWindow
+CreateThread
+CreateWindow
+FindWindowEx
+GetWindowRect
+GetForegroundWindow
+GetConsoleTitle
+GetWindowInfo
