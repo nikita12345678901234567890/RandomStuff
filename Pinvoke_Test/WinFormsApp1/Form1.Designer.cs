@@ -28,10 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            SuspendLayout();
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            Name = "Form1";
+            Text = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.BackColor = System.Drawing.Color.Gold;
+            this.TransparencyKey = System.Drawing.Color.Gold;
+            ClientSize = new Size(111, 148);
+            BackgroundImageLayout = ImageLayout.None;
+            Shown += Form1_Shown;
+            ResumeLayout(false);
         }
 
         #endregion

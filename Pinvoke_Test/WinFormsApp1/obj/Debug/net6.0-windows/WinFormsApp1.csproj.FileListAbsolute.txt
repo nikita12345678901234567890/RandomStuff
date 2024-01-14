@@ -31,3 +31,4 @@ D:\Documents\GitHub\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windo
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
