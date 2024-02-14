@@ -1,0 +1,14 @@
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.exe
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.dll
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.dll
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+D:\Documents\GitHub\RandomStuff\BankAccount\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll
