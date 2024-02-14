@@ -14,3 +14,21 @@ D:\Documents\GitHub\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windo
 D:\Documents\GitHub\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 D:\Documents\GitHub\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\Documents\GitHub\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\Pinvoke_Test\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources

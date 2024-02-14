@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\perso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\RandomStuff\\Pong\\Pong\\Pong.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\Pong\\Pong\\Pong.csproj",
       "projectName": "Pong",
-      "projectPath": "D:\\Documents\\GitHub\\RandomStuff\\Pong\\Pong\\Pong.csproj",
-      "packagesPath": "C:\\Users\\perso\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\RandomStuff\\Pong\\Pong\\obj\\",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\Pong\\Pong\\Pong.csproj",
+      "packagesPath": "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\Pong\\Pong\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\perso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Nikita.Ulianov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
