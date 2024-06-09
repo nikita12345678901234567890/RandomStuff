@@ -1,3 +1,5 @@
+using DevApp;
+
 namespace UpdateServer2
 {
     public class Program
@@ -21,6 +23,8 @@ namespace UpdateServer2
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            //app.UseHttpsRedirection();
 
             //app.UseAuthorization();
 

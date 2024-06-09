@@ -1,0 +1,6 @@
+@TestDeleteMe_HostAddress = http://localhost:5049
+
+GET {{TestDeleteMe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

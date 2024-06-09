@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
         "projectName": "UpdateApp",
-        "projectPath": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
-        "packagesPath": "C:\\Users\\perso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateApp\\UpdateApp\\obj\\",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+        "packagesPath": "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\perso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Nikita.Ulianov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -62,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

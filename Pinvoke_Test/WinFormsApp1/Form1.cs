@@ -12,7 +12,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            //WindowBounce(this);
+            WindowBounce(this);
         }
 
         public static void WindowBounce(Form1 form)

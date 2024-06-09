@@ -1,0 +1,17 @@
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\bin\Debug\net8.0-windows\DevApp.exe
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\bin\Debug\net8.0-windows\DevApp.deps.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\bin\Debug\net8.0-windows\DevApp.runtimeconfig.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\bin\Debug\net8.0-windows\DevApp.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\bin\Debug\net8.0-windows\DevApp.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.Form1.resources
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.sourcelink.json
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\refint\DevApp.dll
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.pdb
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\DevApp.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateServer2\DevApp\obj\Debug\net8.0-windows\ref\DevApp.dll

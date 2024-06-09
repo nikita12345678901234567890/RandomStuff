@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048D6678-0891-4B34-8C90-789985DA61EA}|TestDeleteMe\\TestDeleteMe.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\testdeleteme\\testdeleteme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D6678-0891-4B34-8C90-789985DA61EA}|TestDeleteMe\\TestDeleteMe.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\testdeleteme\\testdeleteme\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D6678-0891-4B34-8C90-789985DA61EA}|TestDeleteMe\\TestDeleteMe.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\testdeleteme\\testdeleteme\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\Program.cs",
+              "RelativeDocumentMoniker": "TestDeleteMe\\Program.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\Program.cs",
+              "RelativeToolTip": "TestDeleteMe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:12:57.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TestDeleteMe\\WeatherForecast.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\WeatherForecast.cs",
+              "RelativeToolTip": "TestDeleteMe\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:12:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestDeleteMe\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\TestDeleteMe\\TestDeleteMe\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestDeleteMe\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:54:55.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

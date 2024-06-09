@@ -4059,24 +4059,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\perso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateServer\\UpdateServer\\UpdateServer.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateServer\\UpdateServer\\UpdateServer.csproj",
       "projectName": "UpdateServer",
-      "projectPath": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateServer\\UpdateServer\\UpdateServer.csproj",
-      "packagesPath": "C:\\Users\\perso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perso\\Documents\\GitHub\\RandomStuff\\UpdateServer\\UpdateServer\\obj\\",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateServer\\UpdateServer\\UpdateServer.csproj",
+      "packagesPath": "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateServer\\UpdateServer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\perso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Nikita.Ulianov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4127,7 +4122,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
