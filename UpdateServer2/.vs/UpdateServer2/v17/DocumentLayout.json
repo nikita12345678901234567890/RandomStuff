@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateServer2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E7A7005-3EA7-4FF9-AF2D-05C4CF2E739B}|UpdateFuncs\\UpdateFuncs.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateserver2\\updatefuncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33D0B8B9-E9BB-448F-AC18-81D4EFE11BBC}|DevApp\\DevApp.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateserver2\\devapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33D0B8B9-E9BB-448F-AC18-81D4EFE11BBC}|DevApp\\DevApp.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateserver2\\devapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E7A7005-3EA7-4FF9-AF2D-05C4CF2E739B}|UpdateFuncs\\UpdateFuncs.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateserver2\\updatefuncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB9827-CDF9-481F-A79D-F2F5D132E4BF}|UpdateServer2\\UpdateServer2.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateserver2\\updateserver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -31,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,26 +47,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateServer2\\UpdateFuncs\\Program.cs",
               "RelativeDocumentMoniker": "UpdateFuncs\\Program.cs",
               "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateServer2\\UpdateFuncs\\Program.cs",
               "RelativeToolTip": "UpdateFuncs\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T03:02:14.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateServer2\\DevApp\\Form1.cs",
               "RelativeDocumentMoniker": "DevApp\\Form1.cs",
               "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateServer2\\DevApp\\Form1.cs",
               "RelativeToolTip": "DevApp\\Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T02:50:47.023Z",
               "EditorCaption": ""
@@ -81,8 +81,7 @@
               "RelativeToolTip": "UpdateServer2\\Updates.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:24:46.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T02:24:46.369Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "UpdateServer2\\Controllers\\UpdateController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:39:21.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T01:39:21.357Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "UpdateServer2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:39:21.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T01:39:21.45Z"
             },
             {
               "$type": "Document",
@@ -120,8 +117,7 @@
               "RelativeToolTip": "UpdateServer2\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:39:21.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T01:39:21.435Z"
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "RelativeToolTip": "UpdateServer2\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:39:21.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T01:39:21.482Z"
             }
           ]
         }

@@ -11,7 +11,13 @@ namespace DevApp
             V1();
         }
 
-        
+        public void V1()
+        {
+            TextBox textBox = new TextBox();
+            textBox.Text = "Holy Shit it works!!!!";
+            textBox.Location = new System.Drawing.Point(50, 50);
+            Controls.Add(textBox);
+        }
 
     }
 }

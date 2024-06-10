@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
         "projectName": "UpdateApp",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
         "packagesPath": "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikita.Ulianov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,14 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Windows.CsWin32": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.3.106, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

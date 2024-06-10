@@ -5,7 +5,51 @@
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {}
+    ".NETCoreApp,Version=v6.0": {
+      "Microsoft.Windows.CsWin32/0.3.106": {
+        "dependencies": {
+          "Microsoft.Windows.SDK.Win32Docs": "0.1.42-alpha",
+          "Microsoft.Windows.SDK.Win32Metadata": "60.0.34-preview",
+          "Microsoft.Windows.WDK.Win32Metadata": "0.11.4-experimental"
+        }
+      },
+      "Microsoft.Windows.SDK.Win32Docs/0.1.42-alpha": {},
+      "Microsoft.Windows.SDK.Win32Metadata/60.0.34-preview": {},
+      "Microsoft.Windows.WDK.Win32Metadata/0.11.4-experimental": {
+        "dependencies": {
+          "Microsoft.Windows.SDK.Win32Metadata": "60.0.34-preview"
+        }
+      }
+    }
   },
-  "libraries": {}
+  "libraries": {
+    "Microsoft.Windows.CsWin32/0.3.106": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mx5fK7uN6fwLR4wUghs6//HonAnwPBNmC2oonyJVhCUlHS/r6SUS3NkBc3+gaQiv+0/9bqdj1oSCKQFkNI+21Q==",
+      "path": "microsoft.windows.cswin32/0.3.106",
+      "hashPath": "microsoft.windows.cswin32.0.3.106.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.Win32Docs/0.1.42-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z/9po23gUA9aoukirh2ItMU2ZS9++Js9Gdds9fu5yuMojDrmArvY2y+tq9985tR3cxFxpZO1O35Wjfo0khj5HA==",
+      "path": "microsoft.windows.sdk.win32docs/0.1.42-alpha",
+      "hashPath": "microsoft.windows.sdk.win32docs.0.1.42-alpha.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.Win32Metadata/60.0.34-preview": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TA3DUNi4CTeo+ItTXBnGZFt2159XOGSl0UOlG5vjDj4WHqZjhwYyyUnzOtrbCERiSaP2Hzg7otJNWwOSZgutyA==",
+      "path": "microsoft.windows.sdk.win32metadata/60.0.34-preview",
+      "hashPath": "microsoft.windows.sdk.win32metadata.60.0.34-preview.nupkg.sha512"
+    },
+    "Microsoft.Windows.WDK.Win32Metadata/0.11.4-experimental": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bf5MCmUyZf0gBlYQjx9UpRAZWBkRndyt9XicR+UNLvAUAFTZQbu6YaX/sNKZlR98Grn0gydfh/yT4I3vc0AIQA==",
+      "path": "microsoft.windows.wdk.win32metadata/0.11.4-experimental",
+      "hashPath": "microsoft.windows.wdk.win32metadata.0.11.4-experimental.nupkg.sha512"
+    }
+  }
 }

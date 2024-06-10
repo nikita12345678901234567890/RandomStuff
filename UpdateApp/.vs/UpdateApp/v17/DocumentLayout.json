@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF884D-32E0-4841-87B4-88DB20140906}|UpdateApp\\UpdateApp.csproj|\\\\gmrdc1\\folder redirection\\nikita.ulianov\\documents\\github\\randomstuff\\updateapp\\updateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF884D-32E0-4841-87B4-88DB20140906}|UpdateApp\\UpdateApp.csproj|\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\updateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "UpdateApp\\Form1.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\Form1.cs*",
+              "RelativeToolTip": "UpdateApp\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:38:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "UpdateApp\\Form1.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\Form1.cs [Design]*",
+              "RelativeToolTip": "UpdateApp\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:38:52.113Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

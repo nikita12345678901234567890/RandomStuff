@@ -1,11 +1,142 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Microsoft.Windows.CsWin32/0.3.106": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Windows.SDK.Win32Docs": "0.1.42-alpha",
+          "Microsoft.Windows.SDK.Win32Metadata": "60.0.34-preview",
+          "Microsoft.Windows.WDK.Win32Metadata": "0.11.4-experimental"
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.Windows.CsWin32.props": {}
+        }
+      },
+      "Microsoft.Windows.SDK.Win32Docs/0.1.42-alpha": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard1.0/Microsoft.Windows.SDK.Win32Docs.props": {}
+        }
+      },
+      "Microsoft.Windows.SDK.Win32Metadata/60.0.34-preview": {
+        "type": "package",
+        "build": {
+          "buildTransitive/netstandard1.0/Microsoft.Windows.SDK.Win32Metadata.props": {}
+        }
+      },
+      "Microsoft.Windows.WDK.Win32Metadata/0.11.4-experimental": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Windows.SDK.Win32Metadata": "60.0.34-preview"
+        },
+        "build": {
+          "buildTransitive/netstandard1.0/Microsoft.Windows.WDK.Win32Metadata.props": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.Windows.CsWin32/0.3.106": {
+      "sha512": "Mx5fK7uN6fwLR4wUghs6//HonAnwPBNmC2oonyJVhCUlHS/r6SUS3NkBc3+gaQiv+0/9bqdj1oSCKQFkNI+21Q==",
+      "type": "package",
+      "path": "microsoft.windows.cswin32/0.3.106",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NOTICE.txt",
+        "README.md",
+        "analyzers/cs/MessagePack.Annotations.dll",
+        "analyzers/cs/MessagePack.dll",
+        "analyzers/cs/Microsoft.Bcl.AsyncInterfaces.dll",
+        "analyzers/cs/Microsoft.Windows.CsWin32.dll",
+        "analyzers/cs/Microsoft.Windows.SDK.Win32Docs.dll",
+        "analyzers/cs/System.Text.Encodings.Web.dll",
+        "analyzers/cs/System.Text.Json.dll",
+        "build/Microsoft.Windows.CsWin32.props",
+        "build/net20/Microsoft.Windows.CsWin32.props",
+        "build/netstandard1.0/Microsoft.Windows.CsWin32.props",
+        "microsoft.windows.cswin32.0.3.106.nupkg.sha512",
+        "microsoft.windows.cswin32.nuspec",
+        "readme.txt",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "Microsoft.Windows.SDK.Win32Docs/0.1.42-alpha": {
+      "sha512": "Z/9po23gUA9aoukirh2ItMU2ZS9++Js9Gdds9fu5yuMojDrmArvY2y+tq9985tR3cxFxpZO1O35Wjfo0khj5HA==",
+      "type": "package",
+      "path": "microsoft.windows.sdk.win32docs/0.1.42-alpha",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "apidocs.msgpack",
+        "buildTransitive/Microsoft.Windows.SDK.Win32Docs.props",
+        "buildTransitive/net20/Microsoft.Windows.SDK.Win32Docs.props",
+        "buildTransitive/netstandard1.0/Microsoft.Windows.SDK.Win32Docs.props",
+        "images/windows.png",
+        "lib/netstandard2.0/Microsoft.Windows.SDK.Win32Docs.dll",
+        "lib/netstandard2.0/Microsoft.Windows.SDK.Win32Docs.xml",
+        "microsoft.windows.sdk.win32docs.0.1.42-alpha.nupkg.sha512",
+        "microsoft.windows.sdk.win32docs.nuspec"
+      ]
+    },
+    "Microsoft.Windows.SDK.Win32Metadata/60.0.34-preview": {
+      "sha512": "TA3DUNi4CTeo+ItTXBnGZFt2159XOGSl0UOlG5vjDj4WHqZjhwYyyUnzOtrbCERiSaP2Hzg7otJNWwOSZgutyA==",
+      "type": "package",
+      "path": "microsoft.windows.sdk.win32metadata/60.0.34-preview",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Windows.Win32.winmd",
+        "build/Microsoft.Windows.SDK.Win32Metadata.props",
+        "build/net20/Microsoft.Windows.SDK.Win32Metadata.props",
+        "build/netstandard1.0/Microsoft.Windows.SDK.Win32Metadata.props",
+        "buildTransitive/Microsoft.Windows.SDK.Win32Metadata.props",
+        "buildTransitive/net20/Microsoft.Windows.SDK.Win32Metadata.props",
+        "buildTransitive/netstandard1.0/Microsoft.Windows.SDK.Win32Metadata.props",
+        "images/windows.png",
+        "microsoft.windows.sdk.win32metadata.60.0.34-preview.nupkg.sha512",
+        "microsoft.windows.sdk.win32metadata.nuspec",
+        "sdk_license.txt"
+      ]
+    },
+    "Microsoft.Windows.WDK.Win32Metadata/0.11.4-experimental": {
+      "sha512": "bf5MCmUyZf0gBlYQjx9UpRAZWBkRndyt9XicR+UNLvAUAFTZQbu6YaX/sNKZlR98Grn0gydfh/yT4I3vc0AIQA==",
+      "type": "package",
+      "path": "microsoft.windows.wdk.win32metadata/0.11.4-experimental",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Windows.Wdk.winmd",
+        "build/Microsoft.Windows.WDK.Win32Metadata.props",
+        "build/net20/Microsoft.Windows.WDK.Win32Metadata.props",
+        "build/netstandard1.0/Microsoft.Windows.WDK.Win32Metadata.props",
+        "buildTransitive/Microsoft.Windows.WDK.Win32Metadata.props",
+        "buildTransitive/net20/Microsoft.Windows.WDK.Win32Metadata.props",
+        "buildTransitive/netstandard1.0/Microsoft.Windows.WDK.Win32Metadata.props",
+        "images/windows.png",
+        "microsoft.windows.wdk.win32metadata.0.11.4-experimental.nupkg.sha512",
+        "microsoft.windows.wdk.win32metadata.nuspec",
+        "sdk_license.txt"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Microsoft.Windows.CsWin32 >= 0.3.106"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\": {}
@@ -13,9 +144,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
       "projectName": "UpdateApp",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Nikita.Ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\UpdateApp.csproj",
       "packagesPath": "C:\\Users\\Nikita.Ulianov\\.nuget\\packages\\",
       "outputPath": "\\\\GMRDC1\\Folder Redirection\\nikita.ulianov\\Documents\\Github\\RandomStuff\\UpdateApp\\UpdateApp\\obj\\",
       "projectStyle": "PackageReference",
@@ -50,6 +181,14 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Microsoft.Windows.CsWin32": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[0.3.106, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

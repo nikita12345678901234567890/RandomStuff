@@ -1,4 +1,6 @@
 is_global = true
+build_property.CsWin32InputMetadataPaths = C:\Users\Nikita.Ulianov\.nuget\packages\microsoft.windows.sdk.win32metadata\60.0.34-preview\Windows.Win32.winmd|C:\Users\Nikita.Ulianov\.nuget\packages\microsoft.windows.wdk.win32metadata\0.11.4-experimental\Windows.Wdk.winmd
+build_property.CsWin32InputDocPaths = C:\Users\Nikita.Ulianov\.nuget\packages\microsoft.windows.sdk.win32docs\0.1.42-alpha\apidocs.msgpack
 build_property.ApplicationManifest = 
 build_property.StartupObject = 
 build_property.ApplicationDefaultFont = 
@@ -14,6 +16,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UpdateApp
-build_property.ProjectDir = \\GMRDC1\Folder Redirection\nikita.ulianov\Documents\Github\RandomStuff\UpdateApp\UpdateApp\
+build_property.ProjectDir = \\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\RandomStuff\UpdateApp\UpdateApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
